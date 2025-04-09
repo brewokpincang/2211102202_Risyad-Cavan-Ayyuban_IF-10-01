@@ -1,0 +1,108 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "modul2_2211102202_risyadcavanayyuban",
+            "cwd": "modul2_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "modul2_2211102202_risyadcavanayyuban (profile mode)",
+            "cwd": "modul2_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "modul2_2211102202_risyadcavanayyuban (release mode)",
+            "cwd": "modul2_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "modul3_2211102202_risyadcavanayyuban",
+            "cwd": "modul3_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "modul3_2211102202_risyadcavanayyuban (profile mode)",
+            "cwd": "modul3_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "modul3_2211102202_risyadcavanayyuban (release mode)",
+            "cwd": "modul3_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "modul4_2211102202_risyadcavanayyuban",
+            "cwd": "modul4_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "modul4_2211102202_risyadcavanayyuban (profile mode)",
+            "cwd": "modul4_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "modul4_2211102202_risyadcavanayyuban (release mode)",
+            "cwd": "modul4_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "modul5_2211102202_risyadcavanayyuban",
+            "cwd": "modul5_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "modul5_2211102202_risyadcavanayyuban (profile mode)",
+            "cwd": "modul5_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "modul5_2211102202_risyadcavanayyuban (release mode)",
+            "cwd": "modul5_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "modul6_2211102202_risyadcavanayyuban",
+            "cwd": "modul6_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "modul6_2211102202_risyadcavanayyuban (profile mode)",
+            "cwd": "modul6_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "modul6_2211102202_risyadcavanayyuban (release mode)",
+            "cwd": "modul6_2211102202_risyadcavanayyuban",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
